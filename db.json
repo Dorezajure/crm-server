@@ -1,0 +1,40 @@
+{
+    "person": [
+        {
+            "name": "Ковалев Данил",
+            "phone": "+89659063198",
+            "email": "kovalev20030815@yandex.com",
+            "product": "course-js"
+        },
+        {
+            "name": "Киселева Алина",
+            "phone": "+89604930659",
+            "email": "kiseleva254@mail.com",
+            "product": "course-js"
+        },
+        {
+            "name": "Светлана Курдюкова",
+            "phone": "+89506939581",
+            "email": "kurdukovaa456@mail.com",
+            "product": "course-vue"
+        },
+        {
+            "name": "Алексей Безбородов",
+            "phone": "+89695043052",
+            "email": "bezborodovalexei@yandex.ru",
+            "product": "course-wordpress"
+        },
+        {
+            "name": "Аня Сторожева",
+            "phone": "+89695049386",
+            "email": "storogevaanna2001@mail.com",
+            "product": "course-html"
+        }, 
+        {
+            "name": "Глеб Немогутин",
+            "phone": "+89506949367",
+            "email": "nemgleb2004@yandex.ru",
+            "product": "course-php"
+        }
+    ]
+}
